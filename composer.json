@@ -1,0 +1,12 @@
+{
+	"name": "faciletoo/filesystem",
+	"description": "Classes to managing filesystem",
+	"version": "1.0.0",
+	"license": "GPL-3.0+",
+    	"require": {
+	    "php": ">=5.5.0"
+    	},
+	"autoload": {
+   		"classmap": ["src/"]
+    	}
+}
